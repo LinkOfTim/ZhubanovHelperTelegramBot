@@ -1,0 +1,357 @@
+{
+    "Бакалавр": {
+        "sub_menu": {
+            "ПРАВИЛА ПРИЕМА": {
+                "response": "ПРАВИЛА ПРИЕМА",
+                "document": "https://dl.dropboxusercontent.com/scl/fi/tsc5s22dj8oexrvj3hp4k/pravilo-priema-ru-1.pdf?rlkey=htrvmcxql7khsns01km9lls8a&st=38gyg16z&dl=0"
+            },
+            "Необходимые документы": {
+                "response": "ПЕРЕЧЕНЬ ДОКУМЕНТОВ ДЛЯ ПОСТУПЛЕНИЯ:\n\n• Заявление (на специальном бланке);\n\n• Документ об образовании (подлинник);\n\n• Медицинская справка по форме 075-У (заверить в поликлинике университета);\n\n• 063 прививочная карта;\n\n• Копия удостоверения личности;\n\n• Фото 3*4 – 6 штук;\n\n• Сертификат ЕНТ;\n\n• Выписка из ведомости (для поступающих по образовательным программам по областям образования «Педагогические науки»);\n\n• Свидетельство о присуждении государственного образовательного гранта (для поступающих на грант);\n\n• Документы подтверждающие льготы, указанные в свидетельстве гранта (для поступающих на грант);\n\n• 30% оплаты от стоимости обучения (для поступающих платно);\n\n• Конверт А5;\n\n• Скоросшиватель.\n\nРегламент работы и контактные данные:\n\nПн - Пт с 08:30 до 18:00 (обеденный перерыв с 12.30 до 14.00)\n\nСб - Вс выходной\n\nКонтактные данные:\n\nАдрес: г. Актобе, пр.А.Молдагуловой 34\n\nТелефон: 8 776 786 12 85"
+            },
+            "Образовательные программы": {
+                "sub_menu": {
+                    "Факультет педагогики и менеджмента в образовании": {
+                        "sub_menu": {
+                            "6В01102 Психология и менеджмент образования": {
+                                "response": "Психология и менеджмент образования",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601102.png"
+                            },
+                            "6В01201 Дошкольное обучение и воспитание": {
+                                "response": "Дошкольное обучение и воспитание",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601201.png"
+                            },
+                            "6В01301 Педагогика и методика начального обучения": {
+                                "response": "Педагогика и методика начального обучения",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601301.png"
+                            },
+                            "6В01902 Специальная педагогика": {
+                                "response": "Специальная педагогика",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601902.png"
+                            },
+                            "6В03101 Психология": {
+                                "response": "Психология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/603101.png"
+                            },
+                            "6В03102 Клиническая психология": {
+                                "response": "Клиническая психология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/603102.png"
+                            }
+                        }
+                    },
+                    "Исторический факультет": {
+                        "sub_menu": {
+                            "6В01506 География": {
+                                "response": "География",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601506.png"
+                            },
+                            "6В01601 История": {
+                                "response": "История",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601601.png"
+                            },
+                            "6В01603 История и обществознание": {
+                                "response": "История и обществознание",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601603.png"
+                            },
+                            "6В02201 История": {
+                                "response": "История",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/602201.png"
+                            },
+                            "6В05203 Ландшафтное проектирование": {
+                                "response": "Ландшафтное проектирование",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/605203.png"
+                            },
+                            "6В11101 Туризм": {
+                                "response": "Туризм",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/611101.png"
+                            }
+                        }
+                    },
+                    "Профессионально-творческий факультет": {
+                        "sub_menu": {
+                            "6В01401 Музыкальное образование": {
+                                "response": "Музыкальное образование",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601401.png"
+                            },
+                            "6В01404 Физическая культура и спорт": {
+                                "response": "Физическая культура и спорт",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601404.png"
+                            },
+                            "6В01405 Визуальное искусство, художественный труд, графика и проектирование": {
+                                "response": "Визуальное искусство, художественный труд, графика и проектирование",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601405.png"
+                            },
+                            "6В01406 Художественное образование (IP)": {
+                                "response": "Художественное образование (IP)",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601406-ip_UGvMH74.png"
+                            },
+                            "6В02101 Хореография": {
+                                "response": "Хореография",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/602101.png"
+                            },
+                            "6В02102 Дизайн": {
+                                "response": "Дизайн",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/602102.png"
+                            },
+                            "6В07207 Технология и конструирование изделий легкой промышленности": {
+                                "response": "Технология и конструирование изделий легкой промышленности",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607207.png"
+                            },
+                            "6В11102 Культурно-досуговая работа": {
+                                "response": "Культурно-досуговая работа",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607207.png"
+                            }
+                        }
+                    },
+                    "Технический факультет": {
+                        "sub_menu": {
+                            "6В07106 Электроэнергетика": {
+                                "response": "Электроэнергетика",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607106.png"
+                            },
+                            "6В07107 Автоматизация и управление": {
+                                "response": "Автоматизация и управление",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607107.png"
+                            },
+                            "6В07201 Горное дело": {
+                                "response": "Горное дело",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607201.png"
+                            },
+                            "6В07202 Нефтегазовое дело": {
+                                "response": "Нефтегазовое дело",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607202.png"
+                            },
+                            "6В07203 Металлургия": {
+                                "response": "Металлургия",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607203.png"
+                            },
+                            "6В07301 Строительство": {
+                                "response": "Строительство",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607301.png"
+                            },
+                            "6В07303 Производства строительных материалов, изделий и конструкций": {
+                                "response": "Производства строительных материалов, изделий и конструкций",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607303.png"
+                            },
+                            "6В11301 Организация перевозок, движения и эксплуатация транспорта": {
+                                "response": "Организация перевозок, движения и эксплуатация транспорта",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/611301.png"
+                            },
+                            "6В07101 Транспорт, транспортная техника и технологии": {
+                                "response": "Транспорт, транспортная техника и технологии",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607101.png"
+                            },
+                            "6В07205 Технология нефтехимического производства": {
+                                "response": "Технология нефтехимического производства",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607205.png"
+                            }
+                        }
+                    },
+                    "Факультет естествознания": {
+                        "sub_menu": {
+                            "6В01504 Химия": {
+                                "response": "Химия",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601504.png"
+                            },
+                            "6В01505 Биология": {
+                                "response": "Биология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601505.png"
+                            },
+                            "6В01533 Биология (IP)": {
+                                "response": "Биология (IP)",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601533-ip.png"
+                            },
+                            "6В05101 Биология": {
+                                "response": "Биология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/605101.png"
+                            },
+                            "6В05102 Биотехнология": {
+                                "response": "Биотехнология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/605102.png"
+                            },
+                            "6В05201 Экология": {
+                                "response": "Экология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/605201.png"
+                            },
+                            "6В05302 Химия": {
+                                "response": "Химия",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/605302.png"
+                            },
+                            "6В01514 Химия IP": {
+                                "response": "Химия IP"
+                            },
+                            "6В07206 Технология продовольственных продуктов": {
+                                "response": "Технология продовольственных продуктов",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607206.png"
+                            }
+                        }
+                    },
+                    "Физико-математический факультет": {
+                        "sub_menu": {
+                            "6В01501 Математика": {
+                                "response": "Математика",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601501.png"
+                            },
+                            "6В01502 Физика": {
+                                "response": "Физика",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601502.png"
+                            },
+                            "6В05301 Физика": {
+                                "response": "Физика",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/605301.png"
+                            },
+                            "6В05401 Математика": {
+                                "response": "Математика",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/605401.png"
+                            },
+                            "6В06103 Вычислительная техника и программное обеспечение": {
+                                "response": "Вычислительная техника и программное обеспечение",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/606103.png"
+                            },
+                            "6В01503 Информатика": {
+                                "response": "Экология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601503.png"
+                            },
+                            "6В06105 Компьютерная инженерия": {
+                                "response": "Химия",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/606105.png"
+                            },
+                            "6В06102 IT-медицина": {
+                                "response": "Химия IP",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/606102-it.png"
+                            }
+                        }
+                    },
+                    "Филологический факультет": {
+                        "sub_menu": {
+                            "6В01701 Казахский язык и литература": {
+                                "response": "Казахский язык и литература",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601701.png"
+                            },
+                            "6В01702 Русский язык и литература": {
+                                "response": "Русский язык и литература",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601702.png"
+                            },
+                            "6В01704 Русский язык и литература в школах с нерусским языком обучения": {
+                                "response": "Русский язык и литература в школах с нерусским языком обучения",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601704.png"
+                            },
+                            "6В01705 Казахский, русский языки и литература": {
+                                "response": "Казахский, русский языки и литература",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601705.png"
+                            },
+                            "6В02304 Филология: казахская филология": {
+                                "response": "Филология: казахская филология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/602304.png"
+                            }
+                        }
+                    },
+                    "Факультет иностранных языков": {
+                        "sub_menu": {
+                            "6В01706 Иностранный язык: два иностранных языка": {
+                                "response": "Иностранный язык: два иностранных языка",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/601706.png"
+                            },
+                            "6В02302 Переводческое дело": {
+                                "response": "Переводческое дело",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/602302.jpg"
+                            },
+                            "6В02303 Иностранная филология": {
+                                "response": "Иностранная филология",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/602303.jpg"
+                            }
+                        }
+                    },
+                    "Факультет экономики и права": {
+                        "sub_menu": {
+                            "6В04101 Экономика": {
+                                "response": "Экономика",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/604101.png"
+                            },
+                            "6В04102 Менеджмент": {
+                                "response": "Менеджмент",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/604102.png"
+                            },
+                            "6В04103 Учет и аудит": {
+                                "response": "Учет и аудит",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/604103.png"
+                            },
+                            "6В04104 Финансы": {
+                                "response": "Финансы",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/604104.png"
+                            },
+                            "6В04105 Государственное и местное управление": {
+                                "response": "Государственное и местное управление",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/604105.png"
+                            },
+                            "6В04201 Право": {
+                                "response": "Право",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/604201.png"
+                            },
+                            "6В04202 Право и правоохранительная деятельность": {
+                                "response": "Право и правоохранительная деятельность",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/604202.png"
+                            }
+                        }
+                    },
+                    "Международный факультет Heriot-Watt": {
+                        "sub_menu": {
+                            "6В06107 Компьютерная инженерия": {
+                                "response": "Компьютерная инженерия",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/606107.png"
+                            },
+                            "6В07108 Электроэнергетика": {
+                                "response": "Электроэнергетика",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/606107.png"
+                            },
+                            "6В07209 Нефтяная инженерия и энергоменеджмент": {
+                                "response": "Нефтяная инженерия и энергоменеджмент",
+                                "photo": "http://zhubanov.edu.kz/media/uploads/tkuanyshev/2024/10/14/607209.png"
+                            }
+                        }
+                    }
+                }
+            },
+            "ТВОРЧЕСКИЕ ОП": {
+                "photo": "http://zhubanov.edu.kz/media/photos/2024/06/06/tvor-ekzamen-ru_u0M7VeT.png"
+            }
+        }
+    },
+    "Магистратура": {
+        "sub_menu": {
+            "ГОСУДАРСТВЕННЫЙ ОБРАЗОВАТЕЛЬНЫЙ ЗАКАЗ": {
+                "document": "https://dl.dropboxusercontent.com/scl/fi/hzf63lhq1nws2d6o3v638/zakaz-mag-ru.pdf?rlkey=r85mb0asgfs3zclo0znd7lpey&st=z44h7wl5&dl=0"
+            },
+            "Контакты": {
+                "response": "Контактные данные:\n\nАдрес: г. Актобе, пр.А.Молдагуловой 34\n\nТел: +7 776 786 12 85\n\nWhatsApp: +7 747 518 35 83\n\ne-mail: admissions@zhubanov.edu.kz\n\nInstagram: @zhubanov.university\nInstagram: @zhubanov.career\n\nFacebook: proforientator19\n\nСайт: zhubanov.edu.kz"
+            },
+            "Необходимые документы": {
+                "response": "Документы для участия в конкурсе грантов:\n\n• Документ о высшем образовании (оригинал+копия);\n• Документ, удостоверяющий личность (оригинал+копия);\n• Сертификат с результатами комплексного тестирования;\n• Медицинская справка формы 075-у (оригинал+копия);\n• Сертификат о сдаче теста по иностранному языку (при наличии);\n• Файл.\n\nДокументы для зачисления в университет:\n\n• Заявление на имя ректора университета;\n• Документ о высшем образовании (оригинал);\n• Документ, удостоверяющий личность (необходим для идентификации личности);\n• Фото размером 3x4 сантиметра – 6 шт.;\n• Медицинская справка формы 075-у;\n• Сертификат с результатами комплексного тестирования;\n• Сертификат о сдаче теста по иностранному языку (при наличии);\n• Документ, подтверждающий трудовую деятельность (для лиц, имеющих трудовой стаж);\n• Нотариально заверенный перевод паспорта (для иностранных граждан);\n• Нотариально заверенный перевод документа о высшем образовании (для лиц, имеющих документ о высшем образовании иностранного государства);\n• Список научных и научно-методических работ (при наличии);\n• Конверт А5;\n• Скоросшиватель."
+            },
+            "Образовательные программы": {
+                "document": "https://dl.dropboxusercontent.com/scl/fi/l8tzxwsg9bopo1itbmufb/op-mag-ru-1.pdf?rlkey=vfau4zzfx3u7un473quq58e35&st=h2emas5e&dl=0"
+            },
+            "Правила приема": {
+                "document": "https://dl.dropboxusercontent.com/scl/fi/cvl7ckv54abjebaqkp2hg/pravilo-priema-ru-1_RU8hkyg.pdf?rlkey=v8iqmmuof6scfupjy5vslxaqb&st=wwyeroly&dl=0"
+            }
+        }
+    },
+    "Докторантура": {
+        "sub_menu": {
+            "Государственный образовательный заказ": {
+                "document": "https://dl.dropboxusercontent.com/scl/fi/4a4hrvqemyxkjouji0vi9/zakaz-dok-ru.pdf?rlkey=6jhvhfk5q690rbapyxm59jjvk&st=4xghrqhx&dl=0"
+            },
+            "Контакты": {
+                "response": "Контактные данные:\n\nАдрес: г. Актобе, пр.А.Молдагуловой 34\n\nТел: +7 776 786 12 85\n\nWhatsApp: +7 747 518 35 83\n\ne-mail: admissions@zhubanov.edu.kz\n\nInstagram:\n  • @zhubanov.university\n  • @zhubanov.career\n\nFacebook: proforientator19\n\nСайт: zhubanov.edu.kz"
+            },
+            "Необходимые документы": {
+                "response": "НЕОБХОДИМЫЕ ДОКУМЕНТЫ:\n\n• Заявление на имя ректора университета;\n• Документ о высшем образовании (оригинал);\n• Документ, удостоверяющий личность (необходим для идентификации личности);\n• Шесть фотографий размером 3x4 сантиметра;\n• Медицинскую справку формы 075-у;\n• Сертификат о сдаче теста по иностранному языку;\n• Сертификат КазТест;\n• Личный листок по учету кадров или иной документ, подтверждающий трудовую деятельность, заверенный кадровой службой по месту работы;\n• Список научных и научно-методических работ (научные публикации, план проведения исследований, эссе и другие документы) за последние 3 календарных года;\n• Конверт А5;\n• Скоросшиватель."
+            },
+            "Образовательные программы": {
+                "document": "https://dl.dropboxusercontent.com/scl/fi/2hn8vi3zoqw37p30ehfxo/op-dok-ru.pdf?rlkey=2j8w8jk70wz32f9qc8xfuxgbx&st=xok4jm0u&dl=0"
+            },
+            "Правила приема": {
+                "document": "https://dl.dropboxusercontent.com/scl/fi/m8qov445tybghz3jdq0qb/pravilo-priema-ru-1_RU8hkyg.pdf?rlkey=6u2pnmglptfrfj20nsu3x7spo&st=yr5ygc1c&dl=0"
+            }
+        }
+    }
+}
