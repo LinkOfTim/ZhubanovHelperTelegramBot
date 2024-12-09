@@ -1,0 +1,3 @@
+heroku ps:scale worker=1 --app zhubanovhelperbot  Запускает работу
+heroku ps:scale worker=0 --app zhubanovhelperbot  Завершает работу
+heroku ps --app zhubanovhelperbot                 Проверяет рабочие процессы
