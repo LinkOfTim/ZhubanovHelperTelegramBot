@@ -20,9 +20,12 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 async def show_menu(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     current_path = context.user_data['current_path']
     menu_items = menu_manager.get_menu(current_path)
-    #if not menu_items:
-    #    await update.message.reply_text("Нет доступных пунктов меню.")
-    #    return ConversationHandler.END
+
+    choices = list(menu_items.keys())
+
+    # Разбиваем на строки по 2 пункта в строке
+    max_buttons_per_row = 3
+    reply_keyboard = list(chunk_list(choices, max_buttons_per_row))
 
     reply_keyboard = [list(menu_items.keys())]
     if current_path:
@@ -68,6 +71,11 @@ async def navigate_menu(update: Update, context: ContextTypes.DEFAULT_TYPE) -> i
     # Если выбор не найден, выводим сообщение об ошибке и остаемся в текущем состоянии
     await update.message.reply_text("Пункт меню не найден. Попробуйте снова.")
     return NAVIGATE_MENU
+
+def chunk_list(lst, n):
+    """Разбивает список lst на подсписки длиной не более n."""
+    for i in range(0, len(lst), n):
+        yield lst[i:i+n]
 
 def register_user_handlers(application):
     conv_handler = ConversationHandler(
