@@ -54,10 +54,6 @@ async def admin_choice(update: Update, context: ContextTypes.DEFAULT_TYPE) -> in
 async def select_path(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     current_path = context.user_data['current_path']
     menu_items = menu_manager.get_menu(current_path)
-    #if not menu_items:
-    #    await update.message.reply_text("Нет доступных пунктов меню.")
-    #    return await admin(update, context)
-
     reply_keyboard = [list(menu_items.keys())]
     reply_keyboard.append(['Выбрать здесь', 'Назад', 'Отмена'])
 

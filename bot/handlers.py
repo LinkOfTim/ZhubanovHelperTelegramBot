@@ -27,7 +27,6 @@ async def show_menu(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     max_buttons_per_row = 2
     reply_keyboard = list(chunk_list(choices, max_buttons_per_row))
 
-    # reply_keyboard = [list(menu_items.keys())]
     if current_path:
         reply_keyboard.append(['Назад'])
 
